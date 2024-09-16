@@ -1,56 +1,66 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex22201&show_icons=true)
 
-### Languages:
+## 🚀 Мои навыки
+
+### 👨‍💻 Языки программирования:
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
   </a>
 </p>
 
-### Technologies:
+### 🛠 Технологии и инструменты:
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="50" height="50"/>
   </a>
   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django REST Framework" alt="Django REST Framework" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Django%20REST-Framework-092E20?style=for-the-badge&logo=django&logoColor=white" title="Django REST Framework" alt="Django REST Framework" width="50" height="50"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="50" height="50"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
   </a>
   <a href="https://docs.python.org/3/library/asyncio.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="AsyncIO" alt="AsyncIO" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://docs.celeryproject.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg" title="Celery" alt="Celery" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-AsyncIO-%232760A8?style=for-the-badge&logo=python&logoColor=white" title="AsyncIO" alt="AsyncIO" width="50" height="50"/>
   </a>
 </p>
 
-### Other:
+### 🗄 Базы данных:
 <p align="left">
-  <a href="https://web3.foundation/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web3/web3-original.svg" title="Web3" alt="Web3" width="40" height="40"/>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
   </a>
-  <a href="https://nginx.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
+  </a>
+</p>
+
+### 🔧 DevOps и другие инструменты:
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="50" height="50"/>
+  </a>
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white" title="Nginx" alt="Nginx" width="50" height="50"/>
   </a>
   <a href="https://gunicorn.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gunicorn/gunicorn-original.svg" title="Gunicorn" alt="Gunicorn" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" title="Gunicorn" alt="Gunicorn" width="50" height="50"/>
+  </a>
+  <a href="https://docs.celeryproject.org/en/stable/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" title="Celery" alt="Celery" width="50" height="50"/>
+  </a>
+</p>
+
+### 🔗 Другие навыки:
+<p align="left">
+  <a href="https://web3.foundation/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Web3-32648C?style=for-the-badge&logo=web3.js&logoColor=white" title="Web3" alt="Web3" width="50" height="50"/>
   </a>
 </p>
 
