@@ -1,68 +1,30 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex22201&show_icons=true)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=alex22201&border_radius=0&text_bold=true&rank_icon=default&include_all_commits=true&hide_title=true&line_height=30&card_width=800&theme=ambient_gradient&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+</div>
+<br/>
 
-## 🚀 Мои навыки
-
-### 👨‍💻 Языки программирования:
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
-  </a>
-</p>
-
-### 🛠 Технологии и инструменты:
-<p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="50" height="50"/>
-  </a>
-  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Django%20REST-Framework-092E20?style=for-the-badge&logo=django&logoColor=white" title="Django REST Framework" alt="Django REST Framework" width="50" height="50"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="50" height="50"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
-  </a>
-  <a href="https://docs.python.org/3/library/asyncio.html" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-AsyncIO-%232760A8?style=for-the-badge&logo=python&logoColor=white" title="AsyncIO" alt="AsyncIO" width="50" height="50"/>
-  </a>
-</p>
-
-### 🗄 Базы данных:
-<p align="left">
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
-  </a>
-</p>
-
-### 🔧 DevOps и другие инструменты:
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>
-  </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="50" height="50"/>
-  </a>
-  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white" title="Nginx" alt="Nginx" width="50" height="50"/>
-  </a>
-  <a href="https://gunicorn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" title="Gunicorn" alt="Gunicorn" width="50" height="50"/>
-  </a>
-  <a href="https://docs.celeryproject.org/en/stable/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" title="Celery" alt="Celery" width="50" height="50"/>
-  </a>
-</p>
-
-### 🔗 Другие навыки:
-<p align="left">
-  <a href="https://web3.foundation/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Web3-32648C?style=for-the-badge&logo=web3.js&logoColor=white" title="Web3" alt="Web3" width="50" height="50"/>
-  </a>
-</p>
+<div align="center">
+<table>
+<tr>
+<td valign="top" width="400">
+<div align="center"><h3 style="margin:15px 15px 15px 15px; font-size:60px; font-weight:bold">BackEnd</h3></div><hr><br/>
+<div align="center">
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="80" /></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="80" /></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="70" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="70" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="80" /></a>
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="60" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="55" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="70" /></a>
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="70" /></a>
+<br/>
+</div>
+</td>
+</tr>
+</table>
+<div>
+<br/><br/>
 
 
 
