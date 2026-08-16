@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=alex22201&border_radius=0&text_bold=true&rank_icon=default&include_all_commits=true&hide_title=true&line_height=30&card_width=800&theme=ambient_gradient&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-</div>
+</div> -->
 <br/>
 
 <div align="center">
@@ -34,7 +34,7 @@
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="70" /></a>
 <a href="https://web3.foundation/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkf05QHvL_axDXr_3rE9d0Me0vNcFEI03Gow&s?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3" height="60" /></a>
 <a href="https://docs.celeryproject.org/en/stable/" target="_blank"><img style="margin: 10px" src="https://training.galaxyproject.org/training-material/topics/admin/tutorials/celery/images/celery-logo.png?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" height="60" /></a>
-<a href="https://gunicorn.org/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--la4AP0DS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AU3OFfUPCKV7qMmLRRiiYDA.jpeg?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" height="60" /></a>
+<a href="https://gunicorn.org/" target="_blank"><img style="margin: 10px" src="https://web-assets.dd-static.net/42588/1776301739-monitor-gunicorn-performance-gunicorn-hero.png?format=auto&fit=crop&quality=75&disable=upscale&width=1400&height=711&dpr=1" alt="Gunicorn" height="60" /></a>
 </div>
 
 <br/>
